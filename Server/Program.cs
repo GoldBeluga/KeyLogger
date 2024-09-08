@@ -26,7 +26,7 @@ public class Program
             var AdminBody = new AdminCrediantial()
             {
                 Salt = TheSalt,
-                HashedPassword = Hash("Password", TheSalt)
+                HashedPassword = Hash("YOUR_PASSWORD", TheSalt) // For demonstration purpose, I will hardcode the password
             };
             await Admin.InsertOneAsync(AdminBody);
         }
