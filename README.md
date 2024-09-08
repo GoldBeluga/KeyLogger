@@ -1,5 +1,5 @@
 # Disclaimer
-The information and malware code provided on this [website/blog/publication] is for **educational and research purposes only**. The intent of this content is to aid cybersecurity professionals, developers, and researchers in understanding malware behavior, improving defense mechanisms, and furthering security knowledge.
+The information and malware code provided on this [Website](https://github.com/GoldBeluga/KeyLogger) is for **educational and research purposes only**. The intent of this content is to aid cybersecurity professionals, developers, and researchers in understanding malware behavior, improving defense mechanisms, and furthering security knowledge.
 
 The use of this malware, or any information provided herein, for illegal or unethical purposes, including but not limited to hacking, unauthorized access, or exploitation, is strictly prohibited. The publisher does not endorse, encourage, or condone any such activities.
 
