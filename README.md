@@ -30,8 +30,11 @@ Run the `register.exe` to register your target with your server. Enter the `targ
  After registering your target with your server, you can run the `KeyLogger.exe`.
  
  ### This key logger consists three components
- **Key Logger**, the key logger itself, to get confidental data.
- **Register**, to register the target with the server, and to obtain an `auth token`.
- **Server**, to listen to all posted information.
+ 
+|Components|Explanation|
+|--|--|
+| **Key Logger** | the key logger itself, to get confidental data. |
+|**Register**| to register the target with the server, and to obtain an `auth token`. |
+| **Server**| to listen to all posted information.|
  
 
