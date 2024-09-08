@@ -14,7 +14,7 @@ This Key Logger is written in C# [.NET 8](https://dotnet.microsoft.com/en-us/dow
  2. You have full access to your target machines.
  
 ## How to use it?
-After installing .NET 8 and docker desktop, navigate to the `Server` directory, run these commands to deploy server.
+After installing .NET 8, docker desktop and `git clone` this project, navigate to the `Server` directory, run these commands to deploy server.
 
  1. `dotnet build`
  2. `dotnet publish -c Release`
